@@ -1,2 +1,2 @@
-# SSP
+# GoldenDice
 Stochastic processes package
